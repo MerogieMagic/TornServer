@@ -1,0 +1,37 @@
+{
+  "name": "tornserver",
+  "version": "1.0.0",
+  "description": "A new project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerogieMagic/TornServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MerogieMagic/TornServer/issues"
+  },
+  "homepage": "https://github.com/MerogieMagic/TornServer#readme",
+  "dependencies": {
+    "@prisma/client": "^5.11.0",
+    "@types/node": "^25.2.1",
+    "axios": "^1.13.4",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.4",
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "prisma": "^5.11.0"
+  }
+}

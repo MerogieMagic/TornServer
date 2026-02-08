@@ -1,0 +1,8298 @@
+[
+  {
+    "id": 445664221,
+    "code": "9b41f1b07cb5085dd9183f5f9a9534ad",
+    "started": 1770463567,
+    "ended": 1770463575,
+    "attacker": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3779025,
+      "name": "Patrickn47",
+      "level": 25,
+      "faction": null
+    },
+    "result": "Mugged",
+    "respect_gain": 1.57,
+    "respect_loss": 0.39,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1.87,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445657138,
+    "code": "9557b68af3c93daf9aa023dce31001f5",
+    "started": 1770460547,
+    "ended": 1770460572,
+    "attacker": {
+      "id": 2509902,
+      "name": "Maple",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 98200,
+      "name": "pablo_krk",
+      "level": 100,
+      "faction": null
+    },
+    "result": "Hospitalized",
+    "respect_gain": 4.5,
+    "respect_loss": 1.12,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445656106,
+    "code": "ab093a573062025d971a275fd15ba910",
+    "started": 1770460108,
+    "ended": 1770460121,
+    "attacker": {
+      "id": 3255287,
+      "name": "Harucchi",
+      "level": 54,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2538627,
+      "name": "Tseros",
+      "level": 40,
+      "faction": null
+    },
+    "result": "Mugged",
+    "respect_gain": 3.37,
+    "respect_loss": 0.84,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1.25,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445653136,
+    "code": "d3ef6b65ce0900e13b3b20e800b2e340",
+    "started": 1770458844,
+    "ended": 1770458850,
+    "attacker": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2776839,
+      "name": "LeekyDeeky",
+      "level": 20,
+      "faction": null
+    },
+    "result": "Hospitalized",
+    "respect_gain": 3.3,
+    "respect_loss": 0.82,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445646631,
+    "code": "c66511b3345471da59471e1c0c19fba3",
+    "started": 1770456124,
+    "ended": 1770456132,
+    "attacker": {
+      "id": 2517472,
+      "name": "TheTakoyaki",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3131028,
+      "name": "Klayz",
+      "level": 72,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.61,
+    "respect_loss": 1.9,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.37,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.18
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": 445641619,
+    "code": "1ef690b8be2397f4cd1fd6094c9597a5",
+    "started": 1770454226,
+    "ended": 1770454243,
+    "attacker": {
+      "id": 2856750,
+      "name": "Galaxic",
+      "level": 75,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 130997,
+      "name": "oathy",
+      "level": 80,
+      "faction": null
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445640710,
+    "code": "4b0a121b1829fc21f49ceb968d7b05cd",
+    "started": 1770453883,
+    "ended": 1770453891,
+    "attacker": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2776839,
+      "name": "LeekyDeeky",
+      "level": 20,
+      "faction": null
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445640454,
+    "code": "67d761dfc22193875984e638b4e2d393",
+    "started": 1770453780,
+    "ended": 1770453791,
+    "attacker": {
+      "id": 2517472,
+      "name": "TheTakoyaki",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3131028,
+      "name": "Klayz",
+      "level": 72,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.61,
+    "respect_loss": 1.9,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.37,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.18
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": 445637461,
+    "code": "84612d9cfc66781eb6e518dfce18e814",
+    "started": 1770452533,
+    "ended": 1770452537,
+    "attacker": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2776839,
+      "name": "LeekyDeeky",
+      "level": 20,
+      "faction": null
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445637187,
+    "code": "e681a273c9608a57e538f29a6686d859",
+    "started": 1770452428,
+    "ended": 1770452433,
+    "attacker": {
+      "id": 3467790,
+      "name": "Richard_G_Obblr",
+      "level": 50,
+      "faction": {
+        "id": 50699,
+        "name": "The Wrong 'Uns"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Hospitalized",
+    "respect_gain": 2.51,
+    "respect_loss": 0.63,
+    "chain": 4,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 2.28,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445637182,
+    "code": "30ab355033d23188d2ae02d81f9daa83",
+    "started": 1770452425,
+    "ended": 1770452430,
+    "attacker": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2776839,
+      "name": "LeekyDeeky",
+      "level": 20,
+      "faction": null
+    },
+    "result": "Interrupted",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": true,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445636839,
+    "code": "190b68bf80a792a5e52013f89b8fa007",
+    "started": 1770452297,
+    "ended": 1770452301,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 1.88,
+    "respect_loss": 0.47,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 2.28,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445635843,
+    "code": "eabb15378f625dd171b29733bad504ee",
+    "started": 1770451866,
+    "ended": 1770451880,
+    "attacker": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 4022824,
+      "name": "BZFIREZ",
+      "level": 22,
+      "faction": {
+        "id": 50699,
+        "name": "The Wrong 'Uns"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 2.5,
+    "respect_loss": 0.62,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445625642,
+    "code": "e54c049d54259f63f687958c7b16fd3d",
+    "started": 1770448155,
+    "ended": 1770448160,
+    "attacker": null,
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.05,
+    "respect_loss": 1.26,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.36,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445619288,
+    "code": "a2c09b9dff37afc7e0d0708540d6dc0d",
+    "started": 1770445754,
+    "ended": 1770445760,
+    "attacker": {
+      "id": 2517472,
+      "name": "TheTakoyaki",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3131028,
+      "name": "Klayz",
+      "level": 72,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.61,
+    "respect_loss": 1.9,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.37,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.18
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": 445603733,
+    "code": "a60a8e9d1b74edb5c42153bd75f98d83",
+    "started": 1770440248,
+    "ended": 1770440254,
+    "attacker": {
+      "id": 3960801,
+      "name": "Harry_Balzac",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2022724,
+      "name": "Matisons",
+      "level": 25,
+      "faction": null
+    },
+    "result": "Mugged",
+    "respect_gain": 2.52,
+    "respect_loss": 0.63,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445603609,
+    "code": "414052b91dd6090e9ce92d6146d7b864",
+    "started": 1770440199,
+    "ended": 1770440205,
+    "attacker": null,
+    "defender": {
+      "id": 3960801,
+      "name": "Harry_Balzac",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445603288,
+    "code": "85b1c2d137526585577bab2e6074927b",
+    "started": 1770440065,
+    "ended": 1770440071,
+    "attacker": null,
+    "defender": {
+      "id": 3255287,
+      "name": "Harucchi",
+      "level": 54,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445603093,
+    "code": "3e90b971190fbc7e9410fe2451afc500",
+    "started": 1770439998,
+    "ended": 1770440004,
+    "attacker": null,
+    "defender": {
+      "id": 3448707,
+      "name": "StrayCatGregg",
+      "level": 49,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445602476,
+    "code": "31c9b755feeb2136e17b1acbf0f6fd61",
+    "started": 1770439789,
+    "ended": 1770439794,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445599853,
+    "code": "9cd00d031a6b81bbbf175b7d8ec4108f",
+    "started": 1770438913,
+    "ended": 1770438919,
+    "attacker": {
+      "id": 2517472,
+      "name": "TheTakoyaki",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3131028,
+      "name": "Klayz",
+      "level": 72,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.45,
+    "respect_loss": 1.61,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.37,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445594613,
+    "code": "53f16682a2756d61e0e06c6cb764f4ad",
+    "started": 1770437173,
+    "ended": 1770437181,
+    "attacker": {
+      "id": 3044550,
+      "name": "violet_0001",
+      "level": 35,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2546086,
+      "name": "GunnarUlv",
+      "level": 47,
+      "faction": null
+    },
+    "result": "Mugged",
+    "respect_gain": 2.77,
+    "respect_loss": 0.69,
+    "chain": 4,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445594551,
+    "code": "5061cc682d2a8e326f0ca4316b9be71d",
+    "started": 1770437153,
+    "ended": 1770437158,
+    "attacker": {
+      "id": 3044550,
+      "name": "violet_0001",
+      "level": 35,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2628437,
+      "name": "Auzzy7024",
+      "level": 49,
+      "faction": null
+    },
+    "result": "Mugged",
+    "respect_gain": 2.79,
+    "respect_loss": 0.7,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445594256,
+    "code": "428976bc6d98ff18b21119dc0c6e97a0",
+    "started": 1770437054,
+    "ended": 1770437084,
+    "attacker": {
+      "id": 3044550,
+      "name": "violet_0001",
+      "level": 35,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2628437,
+      "name": "Auzzy7024",
+      "level": 49,
+      "faction": null
+    },
+    "result": "Stalemate",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445594065,
+    "code": "9fbf61e1052e1ab54f343a4789b37869",
+    "started": 1770436995,
+    "ended": 1770437022,
+    "attacker": {
+      "id": 3044550,
+      "name": "violet_0001",
+      "level": 35,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2606594,
+      "name": "Morpheus712",
+      "level": 55,
+      "faction": null
+    },
+    "result": "Mugged",
+    "respect_gain": 2.86,
+    "respect_loss": 0.71,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445594009,
+    "code": "b46c776295eaf54459de277e576dd916",
+    "started": 1770436974,
+    "ended": 1770436982,
+    "attacker": {
+      "id": 3044550,
+      "name": "violet_0001",
+      "level": 35,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 883113,
+      "name": "-CandyMan-",
+      "level": 53,
+      "faction": null
+    },
+    "result": "Mugged",
+    "respect_gain": 2.84,
+    "respect_loss": 0.71,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445591362,
+    "code": "83e408f6097a4be86e6fc3982d1960c4",
+    "started": 1770436071,
+    "ended": 1770436075,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3987231,
+      "name": "nafa_",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445591280,
+    "code": "2279b6c20ef878453b0196ea02c55738",
+    "started": 1770436051,
+    "ended": 1770436054,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.93,
+    "respect_loss": 1.48,
+    "chain": 5,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.67,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445591210,
+    "code": "500c6af331b4a786e36b631e097289d2",
+    "started": 1770436027,
+    "ended": 1770436034,
+    "attacker": null,
+    "defender": {
+      "id": 3960801,
+      "name": "Harry_Balzac",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.84,
+    "respect_loss": 1.71,
+    "chain": 4,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445591119,
+    "code": "9377cc790b730c70c467df7003e6587d",
+    "started": 1770435998,
+    "ended": 1770436019,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1847978,
+      "name": "calicheluna",
+      "level": 79,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 8.63,
+    "respect_loss": 2.16,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.7,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445591032,
+    "code": "6a98ec0037aac1bce0564c7075331dbb",
+    "started": 1770435969,
+    "ended": 1770435981,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2517472,
+      "name": "TheTakoyaki",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.35,
+    "respect_loss": 2.59,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445588463,
+    "code": "69e514c527fc03e9aecf02e79008cc6f",
+    "started": 1770435128,
+    "ended": 1770435132,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3824745,
+      "name": "MarcinS23",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.9,
+    "respect_loss": 1.73,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445588372,
+    "code": "9b201e539f3aa4507cbf26297e62c397",
+    "started": 1770435096,
+    "ended": 1770435101,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.2,
+    "respect_loss": 1.3,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.43,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445586373,
+    "code": "c9ba4f853c48ec12a89f0764fc1803dd",
+    "started": 1770434458,
+    "ended": 1770434460,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.22,
+    "respect_loss": 1.3,
+    "chain": 63,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.96,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.2,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445586347,
+    "code": "1dda6c59a2c4cf2de3085c2672d7f852",
+    "started": 1770434449,
+    "ended": 1770434451,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.22,
+    "respect_loss": 1.3,
+    "chain": 62,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.96,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.2,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445586323,
+    "code": "b1329c1ef04c589a1de000d7f92d8a4a",
+    "started": 1770434437,
+    "ended": 1770434442,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.22,
+    "respect_loss": 1.3,
+    "chain": 61,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.96,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.2,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445586277,
+    "code": "4f506db7b87993094689c94c456fc229",
+    "started": 1770434420,
+    "ended": 1770434422,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.18,
+    "respect_loss": 1.29,
+    "chain": 60,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.96,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.19,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445585646,
+    "code": "e02b560badd03cbf8d353abbb18f3820",
+    "started": 1770434187,
+    "ended": 1770434189,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.18,
+    "respect_loss": 1.29,
+    "chain": 59,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.96,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.19,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445585379,
+    "code": "622ad436d6c672059f8fd1ca874c2d03",
+    "started": 1770434098,
+    "ended": 1770434101,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3824745,
+      "name": "MarcinS23",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.06,
+    "respect_loss": 1.26,
+    "chain": 56,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.85,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.19,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445585320,
+    "code": "0a2b3ea06012c4e00cfd09c2da62c6d0",
+    "started": 1770434077,
+    "ended": 1770434079,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2281565,
+      "name": "Solus",
+      "level": 16,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.1,
+    "respect_loss": 1.27,
+    "chain": 54,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.18,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445584362,
+    "code": "88be86f2248acb81276fdbd2ee0e37a3",
+    "started": 1770433763,
+    "ended": 1770433766,
+    "attacker": null,
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.58,
+    "respect_loss": 1.89,
+    "chain": 51,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.18,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445583962,
+    "code": "35008b3d6bc06e32d0146769516ef3ea",
+    "started": 1770433630,
+    "ended": 1770433633,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3960801,
+      "name": "Harry_Balzac",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.24,
+    "respect_loss": 1.56,
+    "chain": 49,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.34,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.17,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445583930,
+    "code": "7e136ad8a04b2dd8dde9db232ad35e6d",
+    "started": 1770433620,
+    "ended": 1770433628,
+    "attacker": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2137902,
+      "name": "NxT",
+      "level": 100,
+      "faction": {
+        "id": 54797,
+        "name": "FYDYBFPOS"
+      }
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445583757,
+    "code": "17afa13130638c21af8a37415324487b",
+    "started": 1770433568,
+    "ended": 1770433584,
+    "attacker": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2471442,
+      "name": "puffin",
+      "level": 88,
+      "faction": null
+    },
+    "result": "Mugged",
+    "respect_gain": 4.28,
+    "respect_loss": 1.07,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.32
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 32
+      }
+    ]
+  },
+  {
+    "id": 445583382,
+    "code": "6be615381e2847725a313ee903670fae",
+    "started": 1770433462,
+    "ended": 1770433466,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3987231,
+      "name": "nafa_",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.19,
+    "respect_loss": 1.8,
+    "chain": 45,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.72,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.16,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445583317,
+    "code": "e705b7f413cdae631d067c2da5cfc03a",
+    "started": 1770433443,
+    "ended": 1770433446,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3502081,
+      "name": "RedCapCat",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.36,
+    "respect_loss": 1.84,
+    "chain": 44,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.76,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.16,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445583237,
+    "code": "d18748935c9b0f12e44bdf7fd1a6ac5e",
+    "started": 1770433421,
+    "ended": 1770433425,
+    "attacker": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 88639,
+      "name": "DixiePixie",
+      "level": 72,
+      "faction": null
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445582908,
+    "code": "37abb0b4a4006eb015fb6fbbc8e0c661",
+    "started": 1770433328,
+    "ended": 1770433330,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3950906,
+      "name": "Moriji",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.45,
+    "respect_loss": 1.86,
+    "chain": 42,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.16,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445582331,
+    "code": "b940697c65148b70a76140f6cca979bc",
+    "started": 1770433183,
+    "ended": 1770433203,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.6,
+    "respect_loss": 1.15,
+    "chain": 40,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.15,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445582136,
+    "code": "db4965e4bfd53a288774becbceaa8ed7",
+    "started": 1770433144,
+    "ended": 1770433146,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.6,
+    "respect_loss": 1.15,
+    "chain": 39,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.15,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445582080,
+    "code": "eba6a8e4379f12cfd47d6b45d3526cd7",
+    "started": 1770433131,
+    "ended": 1770433133,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.56,
+    "respect_loss": 1.14,
+    "chain": 38,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.14,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445582020,
+    "code": "efa1a68c56ec0bed2d99ad23a6d7c40f",
+    "started": 1770433117,
+    "ended": 1770433119,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.56,
+    "respect_loss": 1.14,
+    "chain": 36,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.14,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445581942,
+    "code": "dbaa7272280de4bcc474aebc45924e47",
+    "started": 1770433099,
+    "ended": 1770433101,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.52,
+    "respect_loss": 1.13,
+    "chain": 34,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.13,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445581747,
+    "code": "829699b5d4cf9897489305cded9aeb26",
+    "started": 1770433059,
+    "ended": 1770433061,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.52,
+    "respect_loss": 1.13,
+    "chain": 32,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.13,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445581619,
+    "code": "fc35bb22fbf8c7239cb31927b22dc880",
+    "started": 1770433033,
+    "ended": 1770433035,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.48,
+    "respect_loss": 1.12,
+    "chain": 30,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.12,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445581546,
+    "code": "2566120f113722b28dce5ef846bf5077",
+    "started": 1770433014,
+    "ended": 1770433016,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.48,
+    "respect_loss": 1.12,
+    "chain": 29,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.12,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445581395,
+    "code": "6a5a6753a37a23fd6342bd80091b6b6d",
+    "started": 1770432985,
+    "ended": 1770432987,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.44,
+    "respect_loss": 1.11,
+    "chain": 28,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.11,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445581319,
+    "code": "bebf8cb90861302cc59c083477da862d",
+    "started": 1770432968,
+    "ended": 1770432970,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.44,
+    "respect_loss": 1.11,
+    "chain": 27,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.11,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445581036,
+    "code": "a4537e2beafabd1cf00c3703f5cfda2c",
+    "started": 1770432904,
+    "ended": 1770432906,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.4,
+    "respect_loss": 1.1,
+    "chain": 26,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580982,
+    "code": "cac4a603c421ea8d7eca0a6b480dccb6",
+    "started": 1770432888,
+    "ended": 1770432890,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 20,
+    "respect_loss": 5,
+    "chain": 25,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 20,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580939,
+    "code": "7df9041e67251edda4cfbeff498cb26a",
+    "started": 1770432875,
+    "ended": 1770432877,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.4,
+    "respect_loss": 1.1,
+    "chain": 24,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580906,
+    "code": "faed56e15ce74c36e527971476e4b43f",
+    "started": 1770432865,
+    "ended": 1770432869,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.46,
+    "respect_loss": 1.62,
+    "chain": 23,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.67,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.09,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580866,
+    "code": "baae91010e0bbfcec4372423904e4b5a",
+    "started": 1770432853,
+    "ended": 1770432855,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.36,
+    "respect_loss": 1.09,
+    "chain": 22,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.09,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580807,
+    "code": "35930a2ff8d02b2fe2a78f56e7c2b020",
+    "started": 1770432838,
+    "ended": 1770432840,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.32,
+    "respect_loss": 1.08,
+    "chain": 21,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.08,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580742,
+    "code": "1d9aed4af0c219c96942ad9fa9eea96c",
+    "started": 1770432814,
+    "ended": 1770432817,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.32,
+    "respect_loss": 1.08,
+    "chain": 20,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.82,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.08,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580481,
+    "code": "3e258d9f6978a8da480ff8e5c2fa79cb",
+    "started": 1770432737,
+    "ended": 1770432740,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 3.37,
+    "respect_loss": 0.84,
+    "chain": 19,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.47,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.07,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580178,
+    "code": "52a5e5c7f3697d8fbb58cd30019def7a",
+    "started": 1770432638,
+    "ended": 1770432641,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7,
+    "respect_loss": 1.75,
+    "chain": 18,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.06,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580124,
+    "code": "7a545975ae7b1edec84246b190ec7bf1",
+    "started": 1770432620,
+    "ended": 1770432624,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7,
+    "respect_loss": 1.75,
+    "chain": 17,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.06,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580061,
+    "code": "9ebcbc374184c4813cfc5fe6a5b8b02f",
+    "started": 1770432597,
+    "ended": 1770432602,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.93,
+    "respect_loss": 1.73,
+    "chain": 16,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.05,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580047,
+    "code": "63a0645bca02dd60c3082654cd330509",
+    "started": 1770432594,
+    "ended": 1770432597,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.53,
+    "respect_loss": 1.13,
+    "chain": 15,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.96,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.04,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445580018,
+    "code": "a16cd92c00c762f0b1214962ff9e3f8a",
+    "started": 1770432581,
+    "ended": 1770432585,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.86,
+    "respect_loss": 1.72,
+    "chain": 14,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.04,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579913,
+    "code": "d1708e6d64134b15a604358ecd60d32e",
+    "started": 1770432541,
+    "ended": 1770432543,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.8,
+    "respect_loss": 1.7,
+    "chain": 13,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.03,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579849,
+    "code": "88e161281dea53d96c3e222159a92e8a",
+    "started": 1770432517,
+    "ended": 1770432519,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3987231,
+      "name": "nafa_",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.33,
+    "respect_loss": 1.58,
+    "chain": 12,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.72,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.02,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579830,
+    "code": "62e57ddca979bca234a4281265cd81dc",
+    "started": 1770432511,
+    "ended": 1770432519,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.67,
+    "respect_loss": 1.67,
+    "chain": 11,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.01,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579735,
+    "code": "a6d1dbd8286808c5c3eae8fa9ab815d0",
+    "started": 1770432475,
+    "ended": 1770432478,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10,
+    "respect_loss": 2.5,
+    "chain": 10,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 10,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579695,
+    "code": "32980b8b2bdc6d387de469d44e37d119",
+    "started": 1770432460,
+    "ended": 1770432463,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2281565,
+      "name": "Solus",
+      "level": 16,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.32,
+    "respect_loss": 1.08,
+    "chain": 9,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579677,
+    "code": "ab941ed7dd2b231318f1cc1563eb1039",
+    "started": 1770432453,
+    "ended": 1770432456,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.6,
+    "respect_loss": 1.65,
+    "chain": 8,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579551,
+    "code": "74495b4ca7a50b5bebbc3f8f8239496b",
+    "started": 1770432417,
+    "ended": 1770432421,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.6,
+    "respect_loss": 1.65,
+    "chain": 7,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579472,
+    "code": "1288229959937ab61452587b2d5d8709",
+    "started": 1770432389,
+    "ended": 1770432417,
+    "attacker": {
+      "id": 2509902,
+      "name": "Maple",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 2153637,
+      "name": "TriageStat",
+      "level": 100,
+      "faction": null
+    },
+    "result": "Hospitalized",
+    "respect_gain": 4.5,
+    "respect_loss": 1.12,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579412,
+    "code": "64a1352780b5bbdc421f453477127b34",
+    "started": 1770432369,
+    "ended": 1770432373,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.6,
+    "respect_loss": 1.65,
+    "chain": 6,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579349,
+    "code": "8074dbc43b2c7e5a6bee69f180e0e1c2",
+    "started": 1770432347,
+    "ended": 1770432365,
+    "attacker": {
+      "id": 2509902,
+      "name": "Maple",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 83808,
+      "name": "LeukyBear",
+      "level": 84,
+      "faction": {
+        "id": 6924,
+        "name": "JFR"
+      }
+    },
+    "result": "Hospitalized",
+    "respect_gain": 4.26,
+    "respect_loss": 1.07,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579323,
+    "code": "fe09d1af80c96d0cda87143e8d304f05",
+    "started": 1770432341,
+    "ended": 1770432344,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.6,
+    "respect_loss": 1.65,
+    "chain": 5,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579271,
+    "code": "a6a5c9adcb48030adc3fe4cfd8df88f1",
+    "started": 1770432324,
+    "ended": 1770432327,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.6,
+    "respect_loss": 1.65,
+    "chain": 4,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579200,
+    "code": "b515d0e748fd86b73face25a08f35dbc",
+    "started": 1770432305,
+    "ended": 1770432309,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.6,
+    "respect_loss": 1.65,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445579048,
+    "code": "640deb31d3ad1893c81078f1924b5028",
+    "started": 1770432247,
+    "ended": 1770432256,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3660510,
+      "name": "Shibs",
+      "level": 59,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.26,
+    "respect_loss": 1.07,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.41,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.17
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "id": 445579028,
+    "code": "4c0481f96e68994e7cbb8f7dd1164315",
+    "started": 1770432240,
+    "ended": 1770432254,
+    "attacker": null,
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.6,
+    "respect_loss": 1.65,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445578953,
+    "code": "240822f39374e8ce946ed87ca117bbbb",
+    "started": 1770432212,
+    "ended": 1770432219,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2502218,
+      "name": "Zabrina",
+      "level": 55,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.16,
+    "respect_loss": 1.04,
+    "chain": 6,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.4,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.17
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "id": 445578828,
+    "code": "18edf335d6e5b634baffbce79c5a3e5b",
+    "started": 1770432168,
+    "ended": 1770432172,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3824745,
+      "name": "MarcinS23",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.26,
+    "respect_loss": 1.07,
+    "chain": 5,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.85,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445578813,
+    "code": "1efa41888a66e8e4097e6e9e00bafd7a",
+    "started": 1770432165,
+    "ended": 1770432172,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 66236,
+      "name": "so_many_tears",
+      "level": 40,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.61,
+    "respect_loss": 1.9,
+    "chain": 4,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.71,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.17
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "id": 445578674,
+    "code": "b800ea7857aadcb49b157ba144925ae8",
+    "started": 1770432121,
+    "ended": 1770432125,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3950906,
+      "name": "Moriji",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445578583,
+    "code": "920a8db30ab887d61c97dc9763120bf2",
+    "started": 1770432095,
+    "ended": 1770432097,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3502081,
+      "name": "RedCapCat",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.35,
+    "respect_loss": 1.59,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.76,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445578115,
+    "code": "7ef025a7e0673055160441a02d5d8a37",
+    "started": 1770431943,
+    "ended": 1770431947,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3960801,
+      "name": "Harry_Balzac",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.34,
+    "respect_loss": 1.34,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.34,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445577024,
+    "code": "d1de34863f623202e2e92f2a1d6356ae",
+    "started": 1770431577,
+    "ended": 1770431580,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 3.15,
+    "respect_loss": 0.79,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.47,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445575655,
+    "code": "ecad91f4c5e6cbcee41ecf5f074e3f19",
+    "started": 1770431128,
+    "ended": 1770431132,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3502081,
+      "name": "RedCapCat",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.35,
+    "respect_loss": 1.59,
+    "chain": 6,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.76,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445575476,
+    "code": "8bffa8c5330bfea8a8b45374db614243",
+    "started": 1770431071,
+    "ended": 1770431076,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3824745,
+      "name": "MarcinS23",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.26,
+    "respect_loss": 1.07,
+    "chain": 5,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.85,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445575216,
+    "code": "0beccb564b60add2e85cc89d54bca43d",
+    "started": 1770430986,
+    "ended": 1770430991,
+    "attacker": null,
+    "defender": {
+      "id": 3960801,
+      "name": "Harry_Balzac",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.34,
+    "respect_loss": 1.34,
+    "chain": 4,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.34,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445574971,
+    "code": "3ff8c232f6b4f42034ffa4b786996c8c",
+    "started": 1770430904,
+    "ended": 1770430907,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.35,
+    "respect_loss": 1.09,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.96,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445574872,
+    "code": "df1a2d315dc00f73bfe8e5c28f883fc3",
+    "started": 1770430870,
+    "ended": 1770430876,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3987231,
+      "name": "nafa_",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.2,
+    "respect_loss": 1.55,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.72,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445574740,
+    "code": "98215464d41d2ac356c97996d4a290f5",
+    "started": 1770430828,
+    "ended": 1770430834,
+    "attacker": {
+      "id": 2688569,
+      "name": "Big_Betty",
+      "level": 35,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2281565,
+      "name": "Solus",
+      "level": 16,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.32,
+    "respect_loss": 1.08,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445571754,
+    "code": "d5a4c286e668bce8c265653927b5328a",
+    "started": 1770430042,
+    "ended": 1770430046,
+    "attacker": null,
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445571754,
+    "code": "d5a4c286e668bce8c265653927b5328a",
+    "started": 1770430042,
+    "ended": 1770430046,
+    "attacker": null,
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445566764,
+    "code": "b3c29c7f9f9398a840429ca5a327aee3",
+    "started": 1770428719,
+    "ended": 1770428725,
+    "attacker": {
+      "id": 3965548,
+      "name": "Old_Red",
+      "level": 18,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445562857,
+    "code": "3eb28b1967bd87f2ac257cf26d3e2d26",
+    "started": 1770427602,
+    "ended": 1770427614,
+    "attacker": {
+      "id": 3044550,
+      "name": "violet_0001",
+      "level": 35,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3778921,
+      "name": "bbealll",
+      "level": 35,
+      "faction": {
+        "id": 46144,
+        "name": "SKS MUTATED"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 2.39,
+    "respect_loss": 0.6,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 2.18,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1.25,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445562842,
+    "code": "2b7b3cb5fa812c701e0094baafc3fbb9",
+    "started": 1770427598,
+    "ended": 1770427603,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.67,
+    "respect_loss": 1.67,
+    "chain": 11,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.01,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445562717,
+    "code": "ebebac1113e447d9521308dc006a460e",
+    "started": 1770427560,
+    "ended": 1770427563,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10,
+    "respect_loss": 2.5,
+    "chain": 10,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 10,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445562673,
+    "code": "6fe65c5d385d3585fe0bf0db128c5ffe",
+    "started": 1770427550,
+    "ended": 1770427557,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.14,
+    "respect_loss": 2.54,
+    "chain": 9,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445562645,
+    "code": "99c4304f3c2395ba9595e1dbf10b5acf",
+    "started": 1770427543,
+    "ended": 1770427546,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.14,
+    "respect_loss": 2.54,
+    "chain": 8,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445562613,
+    "code": "bf2a3cf3cdfbeefd2b0eff11b532c32d",
+    "started": 1770427534,
+    "ended": 1770427539,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.14,
+    "respect_loss": 2.54,
+    "chain": 7,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445562583,
+    "code": "d94bf3b4f6ed36bdd9f1cf34c7611467",
+    "started": 1770427528,
+    "ended": 1770427530,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.14,
+    "respect_loss": 2.54,
+    "chain": 6,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445562554,
+    "code": "51ca8148801071866c85898a636006e3",
+    "started": 1770427521,
+    "ended": 1770427524,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.14,
+    "respect_loss": 2.54,
+    "chain": 5,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445562507,
+    "code": "1c0460be32a710a0c0bb8500a9c8d434",
+    "started": 1770427509,
+    "ended": 1770427514,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.14,
+    "respect_loss": 2.54,
+    "chain": 4,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445562481,
+    "code": "075487e66bef532524160530c5960a9a",
+    "started": 1770427505,
+    "ended": 1770427507,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.14,
+    "respect_loss": 2.54,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445562460,
+    "code": "7384c24a0aa1c8d237415c0ce7149234",
+    "started": 1770427499,
+    "ended": 1770427501,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.14,
+    "respect_loss": 2.54,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445562398,
+    "code": "db32b7a110aa8763374ff31a121ab727",
+    "started": 1770427482,
+    "ended": 1770427488,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.14,
+    "respect_loss": 2.54,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445560662,
+    "code": "564c525174e2dd9917cb6488438b7bbe",
+    "started": 1770427045,
+    "ended": 1770427056,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2567758,
+      "name": "Armysqueaky",
+      "level": 89,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 9.94,
+    "respect_loss": 2.48,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445559143,
+    "code": "b7bf06bf492754c80af4c7cf4ab87be9",
+    "started": 1770426632,
+    "ended": 1770426637,
+    "attacker": {
+      "id": 2517472,
+      "name": "TheTakoyaki",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3131028,
+      "name": "Klayz",
+      "level": 72,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.61,
+    "respect_loss": 1.9,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.37,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.18
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": 445559009,
+    "code": "ba63fc59037e86269c5015acb10a7b57",
+    "started": 1770426599,
+    "ended": 1770426606,
+    "attacker": {
+      "id": 2517472,
+      "name": "TheTakoyaki",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3131028,
+      "name": "Klayz",
+      "level": 72,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445556094,
+    "code": "267299d07b797eeb4fec669a4f9cea00",
+    "started": 1770425840,
+    "ended": 1770425842,
+    "attacker": null,
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445553985,
+    "code": "917ac00418d7f4e121cf61044564ca70",
+    "started": 1770425374,
+    "ended": 1770425382,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2275915,
+      "name": "Yato",
+      "level": 54,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.25,
+    "respect_loss": 1.06,
+    "chain": 4,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.43,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.17
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "id": 445553895,
+    "code": "95a8daf305aa36d4b4f05256a9e09245",
+    "started": 1770425353,
+    "ended": 1770425360,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2502218,
+      "name": "Zabrina",
+      "level": 55,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.16,
+    "respect_loss": 1.04,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.4,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.17
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "id": 445553553,
+    "code": "7b159a506cd5cef77d01cf52d2a3941d",
+    "started": 1770425262,
+    "ended": 1770425272,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2933976,
+      "name": "TheCatsPyjamas",
+      "level": 58,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.14,
+    "respect_loss": 1.03,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.37,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.17
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "id": 445553487,
+    "code": "56056140d8c170772e0d938aa4a4de21",
+    "started": 1770425245,
+    "ended": 1770425248,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3660510,
+      "name": "Shibs",
+      "level": 59,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.26,
+    "respect_loss": 1.07,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.41,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.17
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "id": 445548447,
+    "code": "88bb0b41e7ef783477a346df9e8983f9",
+    "started": 1770424030,
+    "ended": 1770424035,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2281565,
+      "name": "Solus",
+      "level": 16,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.95,
+    "respect_loss": 1.74,
+    "chain": 47,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.75,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.17,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445548281,
+    "code": "7b9bd8306646bc9b2726e3c9cada5375",
+    "started": 1770423994,
+    "ended": 1770424000,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3502081,
+      "name": "RedCapCat",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 8.07,
+    "respect_loss": 2.02,
+    "chain": 46,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.17,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445548070,
+    "code": "d25c3a62977da3ee56f9b26896e36b6c",
+    "started": 1770423951,
+    "ended": 1770423963,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3502081,
+      "name": "RedCapCat",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445548053,
+    "code": "65464b8e3e7057c31ac4c32a1aecc9bf",
+    "started": 1770423948,
+    "ended": 1770423952,
+    "attacker": null,
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.86,
+    "respect_loss": 1.47,
+    "chain": 45,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.36,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.16,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445547877,
+    "code": "6970f9abe0e924bbab709bfdafa36897",
+    "started": 1770423914,
+    "ended": 1770423927,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3987231,
+      "name": "nafa_",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.93,
+    "respect_loss": 1.98,
+    "chain": 44,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.16,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445547740,
+    "code": "c89cd164b6eeac23a1205f8b04ff5d2d",
+    "started": 1770423884,
+    "ended": 1770423888,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3791872,
+      "name": "K4T4NG-lnwza",
+      "level": 45,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 8.49,
+    "respect_loss": 2.12,
+    "chain": 43,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.16,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445547516,
+    "code": "9a5b2aa5c99381b878c7f68bb91887f5",
+    "started": 1770423834,
+    "ended": 1770423853,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3791872,
+      "name": "K4T4NG-lnwza",
+      "level": 45,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445547186,
+    "code": "2879e6c7e2016b20c6f3ca4cbeec39a5",
+    "started": 1770423762,
+    "ended": 1770423771,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3791872,
+      "name": "K4T4NG-lnwza",
+      "level": 45,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445547100,
+    "code": "086ee4032726b56f6cc7c00695a5694f",
+    "started": 1770423745,
+    "ended": 1770423747,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.88,
+    "respect_loss": 1.72,
+    "chain": 42,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.67,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.16,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445546964,
+    "code": "dadee9002f10b34278fa3cc6a841cc6d",
+    "started": 1770423712,
+    "ended": 1770423718,
+    "attacker": {
+      "id": 3624604,
+      "name": "Summonedskull",
+      "level": 52,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3960801,
+      "name": "Harry_Balzac",
+      "level": 29,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.87,
+    "respect_loss": 1.97,
+    "chain": 41,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.15,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545944,
+    "code": "60152ec09261c4e53190d28cb2e2f565",
+    "started": 1770423476,
+    "ended": 1770423478,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.9,
+    "respect_loss": 2.97,
+    "chain": 39,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.15,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545900,
+    "code": "dd21aecb223559add7dec2f54c8412ce",
+    "started": 1770423466,
+    "ended": 1770423468,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.59,
+    "respect_loss": 1.9,
+    "chain": 37,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.14,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545893,
+    "code": "d5d1222959e4863eac05f2247568f15c",
+    "started": 1770423465,
+    "ended": 1770423468,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.8,
+    "respect_loss": 2.95,
+    "chain": 38,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.14,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545832,
+    "code": "b2d55b93c93ac60c99b982ce7d64dbd9",
+    "started": 1770423452,
+    "ended": 1770423462,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.8,
+    "respect_loss": 2.95,
+    "chain": 36,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.14,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545805,
+    "code": "d3f0186bd45cb83d6673b8ccebae0945",
+    "started": 1770423447,
+    "ended": 1770423449,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.8,
+    "respect_loss": 2.95,
+    "chain": 35,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.14,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545741,
+    "code": "06d26108f853cb81750b6c563b504f90",
+    "started": 1770423433,
+    "ended": 1770423443,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.7,
+    "respect_loss": 2.92,
+    "chain": 34,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.13,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545746,
+    "code": "f676e1a6c88f8d1ae4be67f3dc98ede4",
+    "started": 1770423434,
+    "ended": 1770423438,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.53,
+    "respect_loss": 1.88,
+    "chain": 33,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.13,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545705,
+    "code": "ab381b3fa06096cd0677e1ba491a4149",
+    "started": 1770423426,
+    "ended": 1770423430,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.7,
+    "respect_loss": 2.92,
+    "chain": 32,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.13,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545686,
+    "code": "89faf75aed6b885efa49f176d3f9fffa",
+    "started": 1770423421,
+    "ended": 1770423425,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.46,
+    "respect_loss": 1.87,
+    "chain": 31,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.12,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545646,
+    "code": "f3a579a1d937e7f640d744cc490aacb1",
+    "started": 1770423413,
+    "ended": 1770423415,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.59,
+    "respect_loss": 2.9,
+    "chain": 30,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.12,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545628,
+    "code": "f12d2e81175ad37a2fef07523a4cd0ea",
+    "started": 1770423408,
+    "ended": 1770423410,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.59,
+    "respect_loss": 2.9,
+    "chain": 29,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.12,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545617,
+    "code": "ec0c4b6dada52a5925fb7ea5a50bb69f",
+    "started": 1770423405,
+    "ended": 1770423407,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.39,
+    "respect_loss": 1.85,
+    "chain": 28,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.11,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545587,
+    "code": "108a250f086a890e209aefad9a9a50fc",
+    "started": 1770423399,
+    "ended": 1770423405,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.49,
+    "respect_loss": 2.87,
+    "chain": 27,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.11,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545570,
+    "code": "5b884f2994e0305946ab096872cedcc3",
+    "started": 1770423395,
+    "ended": 1770423397,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.33,
+    "respect_loss": 1.83,
+    "chain": 26,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545568,
+    "code": "bf212fc50a507423517d2a68f6ddb976",
+    "started": 1770423394,
+    "ended": 1770423396,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 20,
+    "respect_loss": 5,
+    "chain": 25,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 20,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545544,
+    "code": "3c54949eef62452c0330923c17349b26",
+    "started": 1770423389,
+    "ended": 1770423391,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.39,
+    "respect_loss": 2.85,
+    "chain": 24,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545509,
+    "code": "324077dca8da2493b8a735d64d95e064",
+    "started": 1770423383,
+    "ended": 1770423385,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.26,
+    "respect_loss": 1.82,
+    "chain": 23,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.09,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545499,
+    "code": "592814b1c301af4a1bb142287c6dac4d",
+    "started": 1770423380,
+    "ended": 1770423385,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.28,
+    "respect_loss": 2.82,
+    "chain": 22,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.09,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545454,
+    "code": "af6fc88e96d43a069fa228410a915373",
+    "started": 1770423371,
+    "ended": 1770423373,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.18,
+    "respect_loss": 2.8,
+    "chain": 21,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.08,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545442,
+    "code": "3da86965e5ed08a5968edceaafbe3f97",
+    "started": 1770423369,
+    "ended": 1770423372,
+    "attacker": null,
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.19,
+    "respect_loss": 1.8,
+    "chain": 20,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.08,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545394,
+    "code": "d9d6cf74181b727098174c7b6e5b31b1",
+    "started": 1770423358,
+    "ended": 1770423361,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 11.07,
+    "respect_loss": 2.77,
+    "chain": 19,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.07,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545372,
+    "code": "5e8fe62899b1857ff662f9431a354b84",
+    "started": 1770423354,
+    "ended": 1770423357,
+    "attacker": null,
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.06,
+    "respect_loss": 1.76,
+    "chain": 18,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.06,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545290,
+    "code": "285161eeba265de1b63d4639916c9a32",
+    "started": 1770423338,
+    "ended": 1770423346,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.97,
+    "respect_loss": 2.74,
+    "chain": 17,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.06,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445545276,
+    "code": "333ae6483eb2a724f2d50b83a27d6c0c",
+    "started": 1770423334,
+    "ended": 1770423337,
+    "attacker": null,
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.99,
+    "respect_loss": 1.75,
+    "chain": 16,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.05,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545169,
+    "code": "4c75ce907e622c0d3a3c81e52d2ddb2a",
+    "started": 1770423313,
+    "ended": 1770423317,
+    "attacker": null,
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.93,
+    "respect_loss": 1.73,
+    "chain": 15,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.04,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445545088,
+    "code": "4388e12d5fc78158b81f92394a8bbc67",
+    "started": 1770423299,
+    "ended": 1770423303,
+    "attacker": null,
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.93,
+    "respect_loss": 1.73,
+    "chain": 14,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.04,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445544884,
+    "code": "589d17da35beec70c6cdf6a27e106002",
+    "started": 1770423265,
+    "ended": 1770423279,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4023584,
+      "name": "Thibaut_Bell",
+      "level": 23,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.86,
+    "respect_loss": 1.72,
+    "chain": 13,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.03,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445543467,
+    "code": "dcd81a9b475cc95d685390c02dc732fd",
+    "started": 1770423016,
+    "ended": 1770423021,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2558112,
+      "name": "Ascendance",
+      "level": 25,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.79,
+    "respect_loss": 1.7,
+    "chain": 11,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1.01,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445543334,
+    "code": "c56abc7aa945e4f0432d03f99bbceb2e",
+    "started": 1770422992,
+    "ended": 1770423001,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1847978,
+      "name": "calicheluna",
+      "level": 79,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10,
+    "respect_loss": 2.5,
+    "chain": 10,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.7,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 10,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445543136,
+    "code": "eb5ccc27b3544673f52062098f00012c",
+    "started": 1770422953,
+    "ended": 1770422968,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2517472,
+      "name": "TheTakoyaki",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.35,
+    "respect_loss": 2.59,
+    "chain": 9,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445542804,
+    "code": "2224f94471c99be6433015428a4d8cff",
+    "started": 1770422885,
+    "ended": 1770422922,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2509902,
+      "name": "Maple",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Escape",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445542677,
+    "code": "0764607ca9644462f9469c8b2b80f2ca",
+    "started": 1770422858,
+    "ended": 1770422866,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.6,
+    "respect_loss": 1.65,
+    "chain": 8,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445542669,
+    "code": "77e83731c2b53a5a1db1c08a9f0617e9",
+    "started": 1770422857,
+    "ended": 1770422865,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2517382,
+      "name": "lCSl",
+      "level": 75,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 8.22,
+    "respect_loss": 2.06,
+    "chain": 7,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445542518,
+    "code": "9864141eac6fe6181a1c970753a7745e",
+    "started": 1770422825,
+    "ended": 1770422837,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.35,
+    "respect_loss": 2.59,
+    "chain": 6,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445542405,
+    "code": "daadfc939519683bfc74ca118a0ae1b0",
+    "started": 1770422803,
+    "ended": 1770422808,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 239149,
+      "name": "XAVlER",
+      "level": 42,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.26,
+    "respect_loss": 1.82,
+    "chain": 5,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445542367,
+    "code": "b93c21a694fe14480e092a1e1c9a7ca4",
+    "started": 1770422794,
+    "ended": 1770422798,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 5.2,
+    "respect_loss": 1.3,
+    "chain": 4,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.43,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445542208,
+    "code": "a848983a2b125898c79db0725f7da9ee",
+    "started": 1770422766,
+    "ended": 1770422785,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 1966081,
+      "name": "Frag",
+      "level": 94,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 10.14,
+    "respect_loss": 2.54,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445542196,
+    "code": "bbe1a46aa88c05215e5e29a2f376fca9",
+    "started": 1770422764,
+    "ended": 1770422772,
+    "attacker": {
+      "id": 4022180,
+      "name": "Exusiai",
+      "level": 24,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 3824745,
+      "name": "MarcinS23",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.9,
+    "respect_loss": 1.73,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445541948,
+    "code": "902dc0942671b253b1df81af5718cabb",
+    "started": 1770422719,
+    "ended": 1770422737,
+    "attacker": {
+      "id": 2971549,
+      "name": "RuthlessNz",
+      "level": 98,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2567758,
+      "name": "Armysqueaky",
+      "level": 89,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 9.94,
+    "respect_loss": 2.48,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.15
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 445535992,
+    "code": "5b08b954ad232c7bf459bba5ee2ebbde",
+    "started": 1770421213,
+    "ended": 1770421227,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2577536,
+      "name": "myxn",
+      "level": 50,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445513452,
+    "code": "c7dbcb81995b57255a27a297d9ea5209",
+    "started": 1770415906,
+    "ended": 1770415912,
+    "attacker": {
+      "id": 3965548,
+      "name": "Old_Red",
+      "level": 18,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445497458,
+    "code": "fd7eeaa4943eb668d50d4bad3941455b",
+    "started": 1770412312,
+    "ended": 1770412323,
+    "attacker": {
+      "id": 3824745,
+      "name": "MarcinS23",
+      "level": 30,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3914465,
+      "name": "AlcraTraZ",
+      "level": 20,
+      "faction": null
+    },
+    "result": "Mugged",
+    "respect_gain": 1.31,
+    "respect_loss": 0.33,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1.59,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445495642,
+    "code": "3cc0eb001dec2eb9a2a1a1f18931097f",
+    "started": 1770411835,
+    "ended": 1770411838,
+    "attacker": {
+      "id": 3965548,
+      "name": "Old_Red",
+      "level": 18,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4054802,
+      "name": "IlllIIlllIrnero",
+      "level": 19,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.54,
+    "respect_loss": 1.63,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445495312,
+    "code": "b35fe309137ae4782b2ff22b6b576207",
+    "started": 1770411771,
+    "ended": 1770411777,
+    "attacker": {
+      "id": 3965548,
+      "name": "Old_Red",
+      "level": 18,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4054802,
+      "name": "IlllIIlllIrnero",
+      "level": 19,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445495221,
+    "code": "3020cdfa8d1443ef45142e69298204e5",
+    "started": 1770411754,
+    "ended": 1770411759,
+    "attacker": null,
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445494214,
+    "code": "a4981d3b75c726d1e1dbc268964d1501",
+    "started": 1770411554,
+    "ended": 1770411602,
+    "attacker": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 924596,
+      "name": "zust792",
+      "level": 95,
+      "faction": null
+    },
+    "result": "Hospitalized",
+    "respect_gain": 4.41,
+    "respect_loss": 1.1,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "stricken",
+        "value": 49
+      }
+    ]
+  },
+  {
+    "id": 445489333,
+    "code": "0430b3f9a03e66caefd5faf71a54f5f9",
+    "started": 1770410189,
+    "ended": 1770410191,
+    "attacker": {
+      "id": 2018965,
+      "name": "RomanTorchwick",
+      "level": 27,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445484899,
+    "code": "63146750569d831130c180feccd3e072",
+    "started": 1770409092,
+    "ended": 1770409166,
+    "attacker": {
+      "id": 2018965,
+      "name": "RomanTorchwick",
+      "level": 27,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445484266,
+    "code": "f3a4b3bb8bbb3420be425316dcf06a3f",
+    "started": 1770408961,
+    "ended": 1770408963,
+    "attacker": {
+      "id": 2018965,
+      "name": "RomanTorchwick",
+      "level": 27,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4054802,
+      "name": "IlllIIlllIrnero",
+      "level": 19,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.54,
+    "respect_loss": 1.63,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445478739,
+    "code": "a59b8198bc50236bea7978042221f3c1",
+    "started": 1770407811,
+    "ended": 1770407816,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2275915,
+      "name": "Yato",
+      "level": 54,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.25,
+    "respect_loss": 1.06,
+    "chain": 5,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.43,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.17
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "id": 445478635,
+    "code": "49b90ed00af256fcf3e080e3b66a0a49",
+    "started": 1770407785,
+    "ended": 1770407795,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 2502218,
+      "name": "Zabrina",
+      "level": 55,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 4.16,
+    "respect_loss": 1.04,
+    "chain": 4,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 1.4,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.17
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "id": 445478311,
+    "code": "0bb1bd61fe930041e98b15f4f25a2de1",
+    "started": 1770407693,
+    "ended": 1770407711,
+    "attacker": {
+      "id": 924596,
+      "name": "zust792",
+      "level": 95,
+      "faction": null
+    },
+    "defender": {
+      "id": 2577536,
+      "name": "myxn",
+      "level": 50,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445478271,
+    "code": "f03d15e5bf62c9357e035d968ca30da8",
+    "started": 1770407683,
+    "ended": 1770407691,
+    "attacker": {
+      "id": 3103499,
+      "name": "CUFFBOY",
+      "level": 71,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 66236,
+      "name": "so_many_tears",
+      "level": 40,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.61,
+    "respect_loss": 1.9,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.71,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.17
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "id": 445478251,
+    "code": "7154771994c6c2c3ddc67cb1b0734381",
+    "started": 1770407680,
+    "ended": 1770407682,
+    "attacker": {
+      "id": 2018965,
+      "name": "RomanTorchwick",
+      "level": 27,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445478142,
+    "code": "bd59dca80d4a509ebc13d1336427132e",
+    "started": 1770407653,
+    "ended": 1770407663,
+    "attacker": {
+      "id": 924596,
+      "name": "zust792",
+      "level": 95,
+      "faction": null
+    },
+    "defender": {
+      "id": 1841496,
+      "name": "Zeref_Dragneel",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445478044,
+    "code": "70b8043486b7ff22a338934237a89ed6",
+    "started": 1770407633,
+    "ended": 1770407637,
+    "attacker": {
+      "id": 2018965,
+      "name": "RomanTorchwick",
+      "level": 27,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4054802,
+      "name": "IlllIIlllIrnero",
+      "level": 19,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.54,
+    "respect_loss": 1.63,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445477978,
+    "code": "1c74ec6b02c425fd50160b2836b2978e",
+    "started": 1770407614,
+    "ended": 1770407622,
+    "attacker": null,
+    "defender": {
+      "id": 3660510,
+      "name": "Shibs",
+      "level": 59,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445476056,
+    "code": "c486f4359ef449cebf1fcc9a3e22357c",
+    "started": 1770407130,
+    "ended": 1770407139,
+    "attacker": {
+      "id": 924596,
+      "name": "zust792",
+      "level": 95,
+      "faction": null
+    },
+    "defender": {
+      "id": 247572,
+      "name": "kondomestix",
+      "level": 66,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445475066,
+    "code": "e8bec459123c85185efc4f02d90cebb5",
+    "started": 1770406873,
+    "ended": 1770406880,
+    "attacker": {
+      "id": 924596,
+      "name": "zust792",
+      "level": 95,
+      "faction": null
+    },
+    "defender": {
+      "id": 1847978,
+      "name": "calicheluna",
+      "level": 79,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445474641,
+    "code": "668850e012a20f171cb4f90f3bb51304",
+    "started": 1770406763,
+    "ended": 1770406798,
+    "attacker": {
+      "id": 924596,
+      "name": "zust792",
+      "level": 95,
+      "faction": null
+    },
+    "defender": {
+      "id": 2567758,
+      "name": "Armysqueaky",
+      "level": 89,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445473350,
+    "code": "72fc46c9a8c578633fa69fc89bffadf7",
+    "started": 1770406420,
+    "ended": 1770406427,
+    "attacker": {
+      "id": 3965548,
+      "name": "Old_Red",
+      "level": 18,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4054802,
+      "name": "IlllIIlllIrnero",
+      "level": 19,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.54,
+    "respect_loss": 1.63,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445473214,
+    "code": "d8a8e188195c5acefe3c63a3d34cf5d1",
+    "started": 1770406388,
+    "ended": 1770406393,
+    "attacker": {
+      "id": 3965548,
+      "name": "Old_Red",
+      "level": 18,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4054802,
+      "name": "IlllIIlllIrnero",
+      "level": 19,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Lost",
+    "respect_gain": 0,
+    "respect_loss": 0,
+    "chain": 0,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445468174,
+    "code": "06abc1bec3ee8ba490939d5df86d47cf",
+    "started": 1770405124,
+    "ended": 1770405131,
+    "attacker": {
+      "id": 3965548,
+      "name": "Old_Red",
+      "level": 18,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "defender": {
+      "id": 4064510,
+      "name": "Kelyria",
+      "level": 15,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 6.42,
+    "respect_loss": 1.61,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 3,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445446431,
+    "code": "228705d3feb049c72e9d3ca65ce99304",
+    "started": 1770399830,
+    "ended": 1770399834,
+    "attacker": {
+      "id": 2517472,
+      "name": "TheTakoyaki",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3131028,
+      "name": "Klayz",
+      "level": 72,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.61,
+    "respect_loss": 1.9,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.37,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.18
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": 445442704,
+    "code": "8326f6fc188064433c0d00bdef78269a",
+    "started": 1770398855,
+    "ended": 1770398859,
+    "attacker": {
+      "id": 2502218,
+      "name": "Zabrina",
+      "level": 55,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3673868,
+      "name": "Fsv_Fraser",
+      "level": 30,
+      "faction": {
+        "id": 44331,
+        "name": "Aussie Road Warriors"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 1.5,
+    "respect_loss": 0.38,
+    "chain": 2,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1.39,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1.25,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445442557,
+    "code": "196340492cdacc983788d4e38529c684",
+    "started": 1770398826,
+    "ended": 1770398830,
+    "attacker": {
+      "id": 2502218,
+      "name": "Zabrina",
+      "level": 55,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3892466,
+      "name": "Sockshyle",
+      "level": 31,
+      "faction": {
+        "id": 51896,
+        "name": "Order 66"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 1.79,
+    "respect_loss": 0.45,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": true,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 1.66,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1.25,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  },
+  {
+    "id": 445440267,
+    "code": "c9228923016a099b011157ed10223221",
+    "started": 1770398380,
+    "ended": 1770398386,
+    "attacker": {
+      "id": 2517472,
+      "name": "TheTakoyaki",
+      "level": 100,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3131028,
+      "name": "Klayz",
+      "level": 72,
+      "faction": {
+        "id": 49776,
+        "name": "Cortex"
+      }
+    },
+    "result": "Attacked",
+    "respect_gain": 7.61,
+    "respect_loss": 1.9,
+    "chain": 1,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": true,
+    "modifiers": {
+      "fair_fight": 2.37,
+      "war": 2,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1.18
+    },
+    "finishing_hit_effects": [
+      {
+        "name": "warlord",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": 445432384,
+    "code": "4d3312d0e40f27c17a5fd731b9834784",
+    "started": 1770396288,
+    "ended": 1770396299,
+    "attacker": {
+      "id": 3972789,
+      "name": "Kamakazi258",
+      "level": 20,
+      "faction": {
+        "id": 7251,
+        "name": "KitsuLand"
+      }
+    },
+    "defender": {
+      "id": 3812128,
+      "name": "Anto_Milburn",
+      "level": 20,
+      "faction": {
+        "id": 53051,
+        "name": "Embers: Municipia"
+      }
+    },
+    "result": "Mugged",
+    "respect_gain": 1.67,
+    "respect_loss": 0.42,
+    "chain": 3,
+    "is_interrupted": false,
+    "is_stealthed": false,
+    "is_raid": false,
+    "is_ranked_war": false,
+    "modifiers": {
+      "fair_fight": 2.03,
+      "war": 1,
+      "retaliation": 1,
+      "group": 1,
+      "overseas": 1,
+      "chain": 1,
+      "warlord": 1
+    },
+    "finishing_hit_effects": []
+  }
+]

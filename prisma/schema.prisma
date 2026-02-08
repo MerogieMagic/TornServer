@@ -1,0 +1,70 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model SchedulerLog {
+  id        Int      @id @default(autoincrement())
+  name      String
+  status    String   // "SUCCESS" | "ERROR"
+  message   String?
+  duration  Int      // in milliseconds
+  createdAt DateTime @default(now())
+}
+
+model FactionRawData {
+  id        Int      @id @default(autoincrement())
+  endpoint  String
+  data      Json
+  hash      String   // MD5 hash to detect changes
+  createdAt DateTime @default(now())
+
+  @@index([endpoint, createdAt])
+}
+
+model FactionAttack {
+  id                Int      @id // Torn Attack ID
+  code              String   @unique
+  startedAt         DateTime
+  endedAt           DateTime
+  startedTimestamp  Int
+  endedTimestamp    Int
+  result            String
+  stealthed         Boolean  @default(false)
+  respectGain       Float    @default(0)
+  respectLoss       Float    @default(0)
+  chain             Int      @default(0)
+  raid              Boolean  @default(false)
+  rankedWar         Boolean  @default(false)
+  fairFight         Float    @default(1.0)
+  attackerId        Int?     // Torn User ID
+  attackerName      String?
+  attackerFactionId Int?
+  attackerFactionName String? // Added per request
+  defenderId        Int?     // Torn User ID
+  defenderName      String?
+  defenderFactionId Int?
+  defenderFactionName String? // Added per request
+  
+  // Flattened Modifiers
+  modWar            Float    @default(0)
+  modRetaliation    Float    @default(0)
+  modGroup          Float    @default(0)
+  modOverseas       Float    @default(0)
+  modChain          Float    @default(0)
+  modWarlord        Float    @default(0)
+  modifiers         Json
+
+  updatedAt         DateTime @default(now()) @updatedAt
+
+  @@index([startedAt])
+  @@index([attackerId])
+  @@index([defenderId])
+}
