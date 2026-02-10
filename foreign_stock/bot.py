@@ -1,4 +1,9 @@
 import discord
+"""
+Script Name: Discord Stock Bot
+Intent: Interface for users to check stocks and receive automated notifications 
+        when high-value items are about to restock.
+"""
 from discord.ext import commands, tasks
 import os
 import asyncpg

@@ -1,4 +1,8 @@
 import asyncio
+"""
+Script Name: Foreign Stock Ingestor
+Intent: Fetches stock data from YATA API every 60 seconds and stores it in PostgreSQL.
+"""
 import aiohttp
 import asyncpg
 import os

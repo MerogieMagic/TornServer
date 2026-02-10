@@ -2,6 +2,13 @@ import { PrismaClient } from '@prisma/client';
 import axios from 'axios';
 import dotenv from 'dotenv';
 
+/**
+ * Script Name: Backfill Attacks
+ * Intent: utility to fetch historical attack logs from Torn API starting from a specific date.
+ *         Useful for populating the DB with past data for analysis.
+ */
+
+
 dotenv.config();
 
 const prisma = new PrismaClient();

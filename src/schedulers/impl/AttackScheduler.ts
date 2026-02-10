@@ -3,6 +3,11 @@ import { IScheduler } from '../IScheduler';
 import { PrismaClient } from '@prisma/client';
 import axios from 'axios';
 
+/**
+ * Script Name: AttackScheduler
+ * Intent: Runs hourly to fetch the latest 100 attacks from the Torn API. 
+ *         It handles duplicate detection and ensures our DB stays in sync with live data.
+ */
 const prisma = new PrismaClient();
 
 export class AttackScheduler implements IScheduler {

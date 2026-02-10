@@ -1,4 +1,9 @@
 import asyncpg
+"""
+Script Name: Stock Predictor Logic
+Intent: specific algorithm to calculate the next restock time based on historical 
+        "Sold Out" events and duration.
+"""
 from datetime import datetime, timedelta
 import math
 

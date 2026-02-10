@@ -1,4 +1,9 @@
 // @ts-nocheck
+/**
+ * Script Name: Export War Hits
+ * Intent: Exports raw hit data for a specific war to valid JSON/Console output.
+ *         Used for external analysis (CSV/Excel) or debugging specific hit logic.
+ */
 const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
 

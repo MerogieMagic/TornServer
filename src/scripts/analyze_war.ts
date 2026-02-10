@@ -1,5 +1,11 @@
 
 // @ts-nocheck
+/**
+ * Script Name: War Analysis Engine
+ * Intent: Calculates complex war statistics including Fair Fight capping, 
+ *         Chain vs Respect hit values, and individual contribution percentages.
+ *         Generates the final "Payout" table for faction distribution.
+ */
 const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
 

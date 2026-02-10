@@ -1,5 +1,10 @@
 
 // @ts-nocheck
+/**
+ * Script Name: Fetch War Attacks
+ * Intent: Targeted fetcher for a specific time range (Default: 2026). 
+ *         Used to fill gaps or get data for a specific war period.
+ */
 const axios = require('axios');
 const { PrismaClient } = require('@prisma/client');
 require('dotenv').config();
